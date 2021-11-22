@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Rochester&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caudex&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+html,body{
+	background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	text-align: right;
+	margin-right: 10%;
+}
+header,section{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.cardheader{
+	font-family: 'Irish Grover', cursive;
+	font-size: 180%;
+	height: 10%;
+}
+.blockquote{
+	font-family: 'Caudex', serif;
+	font-size: 130%;	
+}
+#msg1{
+	font-family: 'Londrina Solid', cursive;
+}
+#msg2{
+	font-family: 'Rochester', cursive;
+}
+p{
+	font-family: 'Caudex', serif;
+	font-size: 120%;
+}
+#topmsg{
+	margin-left: 5%;
+	margin-right: 5%;
+	border-width: 3px;
+	border-style: groove;	
+}
+article{		
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;		
+}
